@@ -1,0 +1,17 @@
+E:\YP\Practic1\Practic1\bin\Debug\Practic1.exe.config
+E:\YP\Practic1\Practic1\bin\Debug\Practic1.exe
+E:\YP\Practic1\Practic1\bin\Debug\Practic1.pdb
+E:\YP\Practic1\Practic1\obj\Debug\Practic1.csproj.AssemblyReference.cache
+E:\YP\Practic1\Practic1\obj\Debug\MainWindow.g.cs
+E:\YP\Practic1\Practic1\obj\Debug\App.g.cs
+E:\YP\Practic1\Practic1\obj\Debug\Practic1_MarkupCompile.cache
+E:\YP\Practic1\Practic1\obj\Debug\Practic1_MarkupCompile.lref
+E:\YP\Practic1\Practic1\obj\Debug\MainWindow.baml
+E:\YP\Practic1\Practic1\obj\Debug\Practic1.g.resources
+E:\YP\Practic1\Practic1\obj\Debug\Practic1.Properties.Resources.resources
+E:\YP\Practic1\Practic1\obj\Debug\Practic1.csproj.GenerateResource.cache
+E:\YP\Practic1\Practic1\obj\Debug\Practic1.csproj.CoreCompileInputs.cache
+E:\YP\Practic1\Practic1\obj\Debug\Practic1.exe
+E:\YP\Practic1\Practic1\obj\Debug\Practic1.pdb
+E:\YP\Practic1\Practic1\obj\Debug\DopZadaniyaPage.g.cs
+E:\YP\Practic1\Practic1\obj\Debug\DopZadaniyaPage.baml
